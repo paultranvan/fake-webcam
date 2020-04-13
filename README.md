@@ -7,7 +7,7 @@ Note the [tensorflow-cpu](https://github.com/tensorflow/tfjs/tree/master/tfjs-no
 
 Tested with skype and zoom.
 
-## Run it
+## Run it
 
 It is composed of a a Node.js server and a Python script:
 
@@ -16,7 +16,7 @@ It is composed of a a Node.js server and a Python script:
 
 The image background is the image found in `./background.jpg`. There are some examples in the `backgrounds` directory.
 
-## Node.js
+## Node.js
 
 `npm install`
 `node body-pix.js`
